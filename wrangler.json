@@ -12,3 +12,11 @@
   },
   "upload_source_maps": true
 }
+{
+  "kv_namespaces": [
+    {
+      "binding": "NUMEROS_TEL",
+      "id": "98d4df5df8594917b63f53b17e245c49"
+    }
+  ]
+}
