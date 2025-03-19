@@ -1,0 +1,6 @@
+name = "telefonoswa"
+type = "javascript"
+
+[[kv_namespaces]]
+binding = "PHONE_NUMBERS"
+id = "98d4df5df8594917b63f53b17e245c49"
