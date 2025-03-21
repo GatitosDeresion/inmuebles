@@ -10,9 +10,7 @@
   "observability": {
     "enabled": true
   },
-  "upload_source_maps": true
-}
-{
+  "upload_source_maps": true,
   "kv_namespaces": [
     {
       "binding": "NUMEROS_TEL",
