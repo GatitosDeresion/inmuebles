@@ -2,7 +2,7 @@
 title: "Tu Espacio"
 description: "espacio publicitario."
 pubDate: "2025"
-heroImage: "/public/espacio_disponible.png"
+heroImage: "/espacio_disponible.png"
 ---
 
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
